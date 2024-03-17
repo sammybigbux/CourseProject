@@ -13,3 +13,13 @@ This project will take do social media marketing by auto-generating some marketi
 
 - TBD
 
+The course will have 5 sections
+1) Introduction to AI, and specifically Generative AI
+2) Introduction to large language models.
+3) Introduction to image generation.
+4) First project
+5) Second project
+6) Third project
+
+Each of the project sections will include an interview with a subject matter expert.
+
